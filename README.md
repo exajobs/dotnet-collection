@@ -3,7 +3,7 @@
 ###  Free. Cross-platform. Open Source
 
 ![net](https://github.com/exajobs/dotnet-collection/blob/main/img/featured.jpg)
-The .NET Framework (pronounced as "dot net") is a proprietary software framework developed by Microsoft that runs primarily on Microsoft Windows.
+- The .NET Framework (pronounced as "dot net") is a proprietary software framework developed by Microsoft that runs primarily on Microsoft Windows.
 
 An ongoing & curated collection of awesome software, frameworks and libraries, learning tutorials and videos, technical guidelines and best practices, and The .NET Framework Collection in the world of information technology.
 > Thanks to our daily readers and contributors. The goal is to build a categorized community-driven collection of very well-known resources. Sharing, suggestions and contributions are always welcome!
