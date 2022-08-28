@@ -12,6 +12,7 @@
 ## About .NET
 NET is a developer platform with tools and libraries for building any type of app, including web, mobile, desktop, games, IoT, cloud, and microservices.
 
+![NET5](https://github.com/exajobs/dotnet-collection/blob/main/img/net5.jpg)
 
 ## Table of Contents
 
